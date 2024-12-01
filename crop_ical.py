@@ -5,7 +5,7 @@ from os import system
 
 from typing import Final
 
-USAGE_STRING: Final = """usage: bla.py input_file year1 [year2 ...]
+USAGE_STRING: Final = """usage: crop_ical.py input_file year1 [year2 ...]
     input_file: this needs to be an ics file.
     year1, year2, etc.: Years to include in your cropped ics file."""
 
